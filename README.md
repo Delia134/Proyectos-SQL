@@ -21,5 +21,3 @@ Strategic recommendation based on risk–benefit (expand, retain, accelerate, or
 
 Impact:
 Direct support for the design of commercial strategies by region and category, improving forecast accuracy and market prioritization.
-
-Translated with DeepL.com (free version)
