@@ -1,23 +1,25 @@
-# Proyecto-SQL
-Tecnologías: Snowflake, SQL, CTEs, Joins, funciones agregadas
-Habilidades: análisis comercial, segmentación geográfica, rendimiento por industria, validación de hipótesis
+# SQL_ANALYSIS
+Technologies: Snowflake, SQL, CTEs, Joins, aggregate functions
+Skills: business analysis, geographic segmentation, performance by industry, hypothesis validation
 
-Descripción:
-Análisis avanzado de ventas, beneficios y previsiones de la compañía SmartDesk, con datos 2019–2022. Se realizaron consultas SQL para evaluar el rendimiento por región (APAC, EMEA, LATAM, NAM), categoría de producto y tipo de cliente.
+Description:
+Advanced analysis of sales, profits, and forecasts for SmartDesk, using data from 2019–2022. SQL queries were performed to evaluate performance by region (APAC, EMEA, LATAM, NAM), product category, and customer type.
 
-Logros / Resultados clave:
+Key achievements/results:
 
-Identificación de que EMEA concentra el 53% de los acuerdos, pero APAC es la región más rentable, especialmente Singapur y Australia. 
+Identification that EMEA accounts for 53% of deals, but APAC is the most profitable region, especially Singapore and Australia. 
 
-CASO_PRÁCTICO_SNOWFLAKE_Delia_R…
 
-Análisis por industria: Consulting, Retail, Technology y Healthcare son las más rentables (>1M€).
 
-Hallazgo crítico: los países de mayor rentabilidad no son los más seguros para previsiones de venta, indicando riesgo estratégico.
+Analysis by industry: Consulting, Retail, Technology, and Healthcare are the most profitable (>€1M).
 
-Detección de una desviación del 30%–55% entre previsión y beneficio real, demostrando que el modelo de forecast infrapredice resultados.
+Critical finding: the most profitable countries are not the most reliable for sales forecasts, indicating strategic risk.
 
-Recomendación estratégica basada en riesgo–beneficio (expandir, retener, acelerar o evaluar mercados).
+Detection of a 30%–55% deviation between forecast and actual profit, demonstrating that the forecast model underestimates results.
 
-Impacto:
-Apoyo directo al diseño de estrategias comerciales por región y por categoría, mejorando la precisión del forecast y la priorización de mercados.
+Strategic recommendation based on risk–benefit (expand, retain, accelerate, or evaluate markets).
+
+Impact:
+Direct support for the design of commercial strategies by region and category, improving forecast accuracy and market prioritization.
+
+Translated with DeepL.com (free version)
